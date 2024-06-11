@@ -1,0 +1,5 @@
+/Users/ycc-yfb/workspace/raspberrypi/hello_usb/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/Users/ycc-yfb/workspace/raspberrypi/hello_usb/build/elf2uf2/CMakeFiles/edit_cache.dir
+/Users/ycc-yfb/workspace/raspberrypi/hello_usb/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/Users/ycc-yfb/workspace/raspberrypi/hello_usb/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/Users/ycc-yfb/workspace/raspberrypi/hello_usb/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
