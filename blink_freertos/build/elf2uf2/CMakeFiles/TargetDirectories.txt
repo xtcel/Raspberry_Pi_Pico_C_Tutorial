@@ -1,0 +1,5 @@
+/Users/ycc-yfb/workspace/raspberrypi/Raspberry_Pi_Pico_C_Tutorial/blink_freertos/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/Users/ycc-yfb/workspace/raspberrypi/Raspberry_Pi_Pico_C_Tutorial/blink_freertos/build/elf2uf2/CMakeFiles/edit_cache.dir
+/Users/ycc-yfb/workspace/raspberrypi/Raspberry_Pi_Pico_C_Tutorial/blink_freertos/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/Users/ycc-yfb/workspace/raspberrypi/Raspberry_Pi_Pico_C_Tutorial/blink_freertos/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/Users/ycc-yfb/workspace/raspberrypi/Raspberry_Pi_Pico_C_Tutorial/blink_freertos/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
