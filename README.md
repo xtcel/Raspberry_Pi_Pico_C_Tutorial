@@ -1,5 +1,11 @@
-Raspberry Pi Pico comes with a Dual-Core ARM Cortex M0+ processor, which can run up to 133MHz. It has 264KB of SRAM and 2MB of onboard flash storage, but we can extend up to 16MB of off-chip Flash memory via a dedicated Quad-SPI bus. We get a total 26 of multi-functional GPIOs that support 3.3v digital I/O with 3 of them also being analog inputs. Raspberry Pi Pico also supports highly flexible power supply architecture, like micro-USB, external supplies or batteries. The most important thing is that we don't need any programmer to program a Raspberry Pi Pico because it works on “Drag-and-Drop” programming using mass storage over USB.
-
+### 树莓派 Pico C/C++ 入门
 ![Raspberry Pi Pico](https://github.com/xtcel/Raspberry_Pi_Pico_C_Tutorial/blob/master/images/pico.jpeg)
 
 
+👋  欢迎阅读树莓派 Pico 入门
+
+这本小册子是我在入门学习树莓派 Pico W 的一些心得经验，希望对大家有所帮助
+
+- 基于 Pico C/C++ SDK 
+- Mac M1 开发环境
+- 图文并茂细致入微
