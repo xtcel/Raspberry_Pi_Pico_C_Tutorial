@@ -1,0 +1,3 @@
+/Volumes/A/workspace/raspberrypi/hello_pwm/build/pioasm/CMakeFiles/pioasm.dir
+/Volumes/A/workspace/raspberrypi/hello_pwm/build/pioasm/CMakeFiles/edit_cache.dir
+/Volumes/A/workspace/raspberrypi/hello_pwm/build/pioasm/CMakeFiles/rebuild_cache.dir

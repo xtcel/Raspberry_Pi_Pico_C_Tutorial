@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/CMakeFiles/ELF2UF2Build
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/CMakeFiles/ELF2UF2Build.rule
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/ycc-yfb/workspace/raspberrypi/pwm_led_fade/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
