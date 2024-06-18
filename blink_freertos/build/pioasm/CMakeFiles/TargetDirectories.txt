@@ -1,3 +1,0 @@
-/Users/ycc-yfb/workspace/raspberrypi/Raspberry_Pi_Pico_C_Tutorial/blink_freertos/build/pioasm/CMakeFiles/pioasm.dir
-/Users/ycc-yfb/workspace/raspberrypi/Raspberry_Pi_Pico_C_Tutorial/blink_freertos/build/pioasm/CMakeFiles/edit_cache.dir
-/Users/ycc-yfb/workspace/raspberrypi/Raspberry_Pi_Pico_C_Tutorial/blink_freertos/build/pioasm/CMakeFiles/rebuild_cache.dir
